@@ -24,7 +24,10 @@ export function Navbar() {
             </Link>
           </Button>
           <Button size="sm" asChild>
-            <Link href="/start">시작하기</Link>
+            <Link href="/start">로그인</Link>
+          </Button>
+          <Button size="sm" asChild>
+            <Link href="/converter">바로 시작하기</Link>
           </Button>
         </div>
       </nav>

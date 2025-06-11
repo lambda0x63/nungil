@@ -19,7 +19,7 @@ export function CTASection() {
           </div>
           
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center mb-6 sm:mb-8 px-4">
-            <Link href="/start" className="w-full sm:w-auto">
+            <Link href="/converter" className="w-full sm:w-auto">
               <Button size="lg" className="group w-full sm:w-auto px-6 sm:px-8">
                 <Sparkles className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
                 지금 시작하기

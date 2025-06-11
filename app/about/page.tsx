@@ -570,7 +570,7 @@ export default function About() {
                   <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
                 </Button>
               </Link>
-              <Link href="/start">
+              <Link href="/converter">
                 <Button size="lg" variant="outline" className="px-8">
                   <Sparkles className="mr-2 h-5 w-5" />
                   지금 시작하기
