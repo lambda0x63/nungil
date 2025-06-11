@@ -360,7 +360,7 @@ export default function Guide() {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/start">
+              <Link href="/converter">
                 <Button size="lg" className="group px-8">
                   <Sparkles className="mr-2 h-5 w-5" />
                   지금 시작하기
