@@ -27,7 +27,7 @@ export default function Start() {
               계정을 만들고 로그인하여 개인화된 설정을 저장하세요
             </p>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-1 gap-8 max-w-4xl mx-auto">
 
               {/* 로그인하기 */}
               <Card className="border-2 border-transparent hover:border-primary/30 transition-all duration-300 group">
